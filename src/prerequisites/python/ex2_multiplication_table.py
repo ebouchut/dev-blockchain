@@ -14,10 +14,10 @@ def multiplication_table(n, max=10):
     """Print the `max` first entries 
     of the multiplication table for `n`
     """
-    print "Multiplication table for ", n
+    print("Multiplication table for ", n)
     i = 1
     while (i <= max):
-        print i, " * ", n, " = ", i*n
+        print(i, " * ", n, " = ", i*n)
         i += 1
 
 # Display the first 10 entries (default max value) for the 7 multiplication table
