@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*-coding:utf-8 -*
 #
 # Use while loop and break keyword
 

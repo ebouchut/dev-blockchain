@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*-coding:utf-8 -*
 
 # Une année est dite bissextile si c'est un multiple de 4,
 # sauf si c'est un multiple de 100.
